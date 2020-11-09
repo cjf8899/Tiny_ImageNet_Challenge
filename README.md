@@ -5,7 +5,7 @@
 # Getting Started
 Download git and dataset
 ```Shell
-git clone https://github.com/cjf8899/SSD_ResNet_Pytorch.git
+git clone https://github.com/cjf8899/Tiny_ImageNet_Challenge.git
 
 cd Tiny_ImageNet_Challenge
 cd data
