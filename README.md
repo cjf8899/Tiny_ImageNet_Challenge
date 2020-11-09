@@ -23,7 +23,6 @@ the structures would like
 ~/Tiny_ImageNet_Challenge/data/
     -- tiny-imagenet-200
     -- se_resnext50_32x4d-a260b3a4.pth
-  
 ```
 # Train
 
