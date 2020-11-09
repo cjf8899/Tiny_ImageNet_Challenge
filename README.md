@@ -31,16 +31,16 @@ The wandb code is included in this repositories.
 
 [Wandb Guide](https://greeksharifa.github.io/references/2020/06/10/wandb-usage/)
 
-All of the special transforms I used are included in [this repo](https://github.com/cjf8899/simple_tool_pytorch)
+All of the special transforms I used are included in [this repositories](https://github.com/cjf8899/simple_tool_pytorch).
 
 # Results
 
 
-I used SE-ResNeXt50_32x4d and the best performance is 82.36%
+I used SE-ResNeXt50_32x4d and the best performance is 82.54%
 
 |              Implementation              |    top-1     |    top-5     |
 | :--------------------------------------: | :---------: | :---------: |
-| SE-ResNeXt50 |   82.36   |   94.96   |
+| SE-ResNeXt50 |   82.54   |   94.96   |
 
 
 
