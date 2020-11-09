@@ -42,4 +42,4 @@ I used SE-ResNeXt50_32x4d and the best performance is 82.54%
 | :--------------------------------------: | :---------: | :---------: |
 | SE-ResNeXt50 |   82.54   |   94.96   |
 
-<p align="center"><img src="https://user-images.githubusercontent.com/53032349/98533514-6d722c00-22c6-11eb-89ab-a73be0d8384b.png" width="50%" height="50%" title="70px" alt="memoryblock"></p>
+<img src="https://user-images.githubusercontent.com/53032349/98533514-6d722c00-22c6-11eb-89ab-a73be0d8384b.png" width="50%" height="50%" title="70px" alt="memoryblock">
