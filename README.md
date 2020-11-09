@@ -1,6 +1,8 @@
 # Tiny_ImageNet_Challenge
 
 [Tiny ImageNet Challenge](https://tiny-imagenet.herokuapp.com/): This is a miniature of ImageNet classification Challenge.
+* Docker >= 19.03.8
+* CUDA >= 10.2
 
 # Getting Started
 Download git and dataset
